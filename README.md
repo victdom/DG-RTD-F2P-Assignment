@@ -3,7 +3,7 @@
 
 **Candidate:** Victor Dominguez Hinojosa  
 **Target Unit:** DG RTD.H5 – Common Knowledge and Data Management Service  
-**Date:** October 2026  
+**Date:** November 2026  
 
 ## Executive Summary
 This repository contains the practical annex for the Business Analyst assignment. It demonstrates a structured approach to eliciting user needs, mapping a conceptual data pipeline, evaluating AI governance risks, and performing exploratory data analysis on research grant metadata.
