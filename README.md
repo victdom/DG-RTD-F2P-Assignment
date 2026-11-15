@@ -17,3 +17,16 @@ This repository contains the practical annex for the Business Analyst assignment
 2. **FAIR Data Curation:** Standardizing metadata tags (Findable, Accessible, Interoperable, Reusable).
 3. **AI & Portfolio Analysis:** Prototyping text summarization and keyword tagging with strict source attribution.
 4. **Knowledge Sharing:** Publishing user guides and dashboards via the F2P Intranet.
+
+## Sample Results & Visual Overview
+
+### Simulated Horizon Europe Grant Portfolio
+| Project ID | Project Title | Policy Cluster | Status | Budget (€) |
+| :--- | :--- | :--- | :--- | :--- |
+| HE-001 | Clean Hydrogen Transition | Climate & Energy | Completed | €2,500,000 |
+| HE-002 | AI in Healthcare | Digital & Health | Ongoing | €4,100,000 |
+| HE-003 | Sustainable Agri-Food | Bioeconomy | Completed | €1,800,000 |
+| HE-004 | Solar Storage Tech | Climate & Energy | Completed | €3,200,000 |
+
+### Funding Distribution by Policy Cluster
+![Portfolio Funding Chart](portfolio_chart.png)
