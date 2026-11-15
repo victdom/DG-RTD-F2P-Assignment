@@ -29,4 +29,4 @@ This repository contains the practical annex for the Business Analyst assignment
 | HE-004 | Solar Storage Tech | Climate & Energy | Completed | €3,200,000 |
 
 ### Funding Distribution by Policy Cluster
-![Portfolio Funding Chart](portfolio_chart.png)
+![Portfolio Funding Chart](F2P_Data_Exploration_Demo-Image.png)
