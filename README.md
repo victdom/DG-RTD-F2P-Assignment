@@ -10,7 +10,7 @@ This repository contains the practical annex for the Business Analyst assignment
 
 ## Repository Structure
 * `README.md`: Overview of the assignment, approach, and repository contents.
-* * `F2P_Data_Exploration_Demo.ipynb`: Interactive notebook demonstrating metadata filtering, budget aggregation, and a visual portfolio chart for policy teams.
+* `F2P_Data_Exploration_Demo.ipynb`: Interactive notebook demonstrating metadata filtering, budget aggregation, and a visual portfolio chart for policy teams.
 
 ## Key Approach & Workflow
 1. **User Needs Elicitation:** Engaging policy teams to define key evidence requirements.
